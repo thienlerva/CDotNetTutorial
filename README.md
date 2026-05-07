@@ -1,4 +1,4 @@
-# CDotNetProgramming
-dotnet new console
-dotnet build
-dotnet run
+
+# dotnet new console
+# dotnet build
+# dotnet run
