@@ -1,0 +1,15 @@
+/Users/codex/Documents/CDotNetProgramming/OOO/obj/Debug/net10.0/OOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codex/Documents/CDotNetProgramming/OOO/obj/Debug/net10.0/OOO.AssemblyInfoInputs.cache
+/Users/codex/Documents/CDotNetProgramming/OOO/obj/Debug/net10.0/OOO.AssemblyInfo.cs
+/Users/codex/Documents/CDotNetProgramming/OOO/obj/Debug/net10.0/OOO.csproj.CoreCompileInputs.cache
+/Users/codex/Documents/CDotNetProgramming/OOO/obj/Debug/net10.0/OOO.sourcelink.json
+/Users/codex/Documents/CDotNetProgramming/OOO/bin/Debug/net10.0/OOO
+/Users/codex/Documents/CDotNetProgramming/OOO/bin/Debug/net10.0/OOO.deps.json
+/Users/codex/Documents/CDotNetProgramming/OOO/bin/Debug/net10.0/OOO.runtimeconfig.json
+/Users/codex/Documents/CDotNetProgramming/OOO/bin/Debug/net10.0/OOO.dll
+/Users/codex/Documents/CDotNetProgramming/OOO/bin/Debug/net10.0/OOO.pdb
+/Users/codex/Documents/CDotNetProgramming/OOO/obj/Debug/net10.0/OOO.dll
+/Users/codex/Documents/CDotNetProgramming/OOO/obj/Debug/net10.0/refint/OOO.dll
+/Users/codex/Documents/CDotNetProgramming/OOO/obj/Debug/net10.0/OOO.pdb
+/Users/codex/Documents/CDotNetProgramming/OOO/obj/Debug/net10.0/OOO.genruntimeconfig.cache
+/Users/codex/Documents/CDotNetProgramming/OOO/obj/Debug/net10.0/ref/OOO.dll
